@@ -3,3 +3,5 @@
 # Quick-sort
 # Linear-Search-lite
 # Linear-Search-lite
+# Linear-Search-lite
+# Linear-Search-lite
